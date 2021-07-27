@@ -1,0 +1,26 @@
+{
+  "name": "udemy-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naoki-kubota110/nators.git"
+  },
+  "author": "naoki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naoki-kubota110/nators/issues"
+  },
+  "homepage": "https://github.com/naoki-kubota110/nators#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
